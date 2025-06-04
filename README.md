@@ -1,4 +1,4 @@
-## Olá, sou o Gabriel Gregório 👋 <span>&#x1f1e7;&#x1f1f7;</span>
+## Olá, sou o Gabriel Gregório 👋
 
 Atualmente sou desenvolvedor web, gosto de seguir boas práticas, refatorar código, criar testes automatizados e estou sempre em busca de aprender mais e melhorar.
 
