@@ -39,7 +39,7 @@ Uma das coisas que eu mais gosto são jogos, e abaixo estão alguns que eu tenho
 - Grand Theft Auto III, um dos jogos que mais me marcaram e talvez o mais importante para a Rockstar Games, e eu sempre me pego escutando a [Flashback FM](https://www.youtube.com/watch?v=w6cvwa9iTbs)
 - Grand Theft Auto: San Andreas, um dos melhores jogos já criados na história, eu também me pego escutando as [radio desse jogo](https://www.youtube.com/playlist?list=PLZFVeChuXLFlstl4tUe4BeTnsONTF5nUI)
 - Grand Theft Auto Vice City, eu nunca zerei esse jogo ainda, mas eu sempre me pego ouvindo as [radios desse game ](https://www.youtube.com/watch?v=oC1nc0UqXRc)   
-- Life Is Strange Remaster, um jogo sensacional, extremamente emocionante, graficamente muito bonito, com temas pesados e uma ótima trilha sonora também.
+- Life Is Strange Remaster, um jogo sensacional, extremamente emocionante, graficamente muito bonito, com temas pesados e uma [ótima trilha sonora](https://www.youtube.com/playlist?list=PLT1zim-_E9NEHF7GfkgInhE_glOTcK9S-) também.
 - Portal, um jogo que desafia a nossa criatividade até o limite, é sensacional.
 - Cod modern warfare 2019, um jogo incrível, bem realista e super divertido mesmo no modo realista de combate.
 - Call of Duty 4: Modern Warfare, me ensinou a ficar longe de carros em um tiroteio, a pegar Cover e que eu não sou uma máquina, e sim um mero humano haha.
