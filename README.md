@@ -44,25 +44,67 @@
 <td><samp>./frontend</samp></td>
 <td>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0a0f0a?style=flat-square&logo=typescript&logoColor=00cc00">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0a0f0a?style=flat-square&logo=javascript&logoColor=00cc00">
 <img alt="React" src="https://img.shields.io/badge/React-0a0f0a?style=flat-square&logo=react&logoColor=00cc00">
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0a0f0a?style=flat-square&logo=nextdotjs&logoColor=00cc00">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-0a0f0a?style=flat-square&logo=vite&logoColor=00cc00">
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0a0f0a?style=flat-square&logo=tailwindcss&logoColor=00cc00">
+<img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-0a0f0a?style=flat-square&logo=reactquery&logoColor=00cc00">
+<img alt="Zustand" src="https://img.shields.io/badge/Zustand-0a0f0a?style=flat-square">
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-0a0f0a?style=flat-square&logo=threedotjs&logoColor=00cc00">
+</td>
+</tr>
+<tr>
+<td><samp>./mobile</samp></td>
+<td>
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-0a0f0a?style=flat-square&logo=react&logoColor=00cc00">
+<img alt="Expo" src="https://img.shields.io/badge/Expo-0a0f0a?style=flat-square&logo=expo&logoColor=00cc00">
+<img alt="Electron" src="https://img.shields.io/badge/Electron-0a0f0a?style=flat-square&logo=electron&logoColor=00cc00">
 </td>
 </tr>
 <tr>
 <td><samp>./backend</samp></td>
 <td>
-<img alt="Express" src="https://img.shields.io/badge/Express-0a0f0a?style=flat-square&logo=express&logoColor=00cc00">
+<img alt="Python" src="https://img.shields.io/badge/Python-0a0f0a?style=flat-square&logo=python&logoColor=00cc00">
+<img alt="Django" src="https://img.shields.io/badge/Django-0a0f0a?style=flat-square&logo=django&logoColor=00cc00">
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0a0f0a?style=flat-square&logo=fastapi&logoColor=00cc00">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-0a0f0a?style=flat-square&logo=flask&logoColor=00cc00">
+<img alt="Celery" src="https://img.shields.io/badge/Celery-0a0f0a?style=flat-square&logo=celery&logoColor=00cc00">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0a0f0a?style=flat-square&logo=nodedotjs&logoColor=00cc00">
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-0a0f0a?style=flat-square&logo=express&logoColor=00cc00">
 <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-0a0f0a?style=flat-square&logo=graphql&logoColor=00cc00">
 <img alt="Swagger" src="https://img.shields.io/badge/Swagger-0a0f0a?style=flat-square&logo=swagger&logoColor=00cc00">
+</td>
+</tr>
+<tr>
+<td><samp>./dados</samp></td>
+<td>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0a0f0a?style=flat-square&logo=postgresql&logoColor=00cc00">
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0a0f0a?style=flat-square&logo=mongodb&logoColor=00cc00">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-0a0f0a?style=flat-square&logo=redis&logoColor=00cc00">
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-0a0f0a?style=flat-square&logo=sqlite&logoColor=00cc00">
+<img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-0a0f0a?style=flat-square&logo=elasticsearch&logoColor=00cc00">
+</td>
+</tr>
+<tr>
+<td><samp>./ia</samp></td>
+<td>
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0a0f0a?style=flat-square">
+<img alt="Claude" src="https://img.shields.io/badge/Claude-0a0f0a?style=flat-square&logo=claude&logoColor=00cc00">
+<img alt="LangChain" src="https://img.shields.io/badge/LangChain-0a0f0a?style=flat-square&logo=langchain&logoColor=00cc00">
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0a0f0a?style=flat-square&logo=pytorch&logoColor=00cc00">
+<img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0a0f0a?style=flat-square&logo=huggingface&logoColor=00cc00">
+<img alt="Ollama" src="https://img.shields.io/badge/Ollama-0a0f0a?style=flat-square&logo=ollama&logoColor=00cc00">
 </td>
 </tr>
 <tr>
 <td><samp>./infra</samp></td>
 <td>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-0a0f0a?style=flat-square&logo=docker&logoColor=00cc00">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0a0f0a?style=flat-square&logo=githubactions&logoColor=00cc00">
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-0a0f0a?style=flat-square&logo=kubernetes&logoColor=00cc00">
+<img alt="AWS" src="https://img.shields.io/badge/AWS-0a0f0a?style=flat-square">
 <img alt="GCP" src="https://img.shields.io/badge/GCP-0a0f0a?style=flat-square&logo=googlecloud&logoColor=00cc00">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-0a0f0a?style=flat-square&logo=githubactions&logoColor=00cc00">
 <img alt="Grafana" src="https://img.shields.io/badge/Grafana-0a0f0a?style=flat-square&logo=grafana&logoColor=00cc00">
 <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-0a0f0a?style=flat-square&logo=prometheus&logoColor=00cc00">
 <img alt="Sentry" src="https://img.shields.io/badge/Sentry-0a0f0a?style=flat-square&logo=sentry&logoColor=00cc00">
@@ -73,7 +115,10 @@
 <td>
 <img alt="Jest" src="https://img.shields.io/badge/Jest-0a0f0a?style=flat-square&logo=jest&logoColor=00cc00">
 <img alt="Vitest" src="https://img.shields.io/badge/Vitest-0a0f0a?style=flat-square&logo=vitest&logoColor=00cc00">
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-0a0f0a?style=flat-square">
 <img alt="Cypress" src="https://img.shields.io/badge/Cypress-0a0f0a?style=flat-square&logo=cypress&logoColor=00cc00">
+<img alt="pytest" src="https://img.shields.io/badge/pytest-0a0f0a?style=flat-square&logo=pytest&logoColor=00cc00">
+<img alt="Storybook" src="https://img.shields.io/badge/Storybook-0a0f0a?style=flat-square&logo=storybook&logoColor=00cc00">
 </td>
 </tr>
 </table>
