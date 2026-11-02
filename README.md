@@ -12,13 +12,6 @@
 <a href="https://www.linkedin.com/in/gabrielogregorio/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=00cc00"></a>
 <a href="https://www.instagram.com/gabrielogregorio/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=00cc00"></a>
 
-<a href="#sobre"><img alt="/sobre" src="https://img.shields.io/badge/%2Fsobre-00cc00?style=for-the-badge"></a>
-<a href="#stack"><img alt="/stack" src="https://img.shields.io/badge/%2Fstack-00cc00?style=for-the-badge"></a>
-<a href="#safira"><img alt="/safira" src="https://img.shields.io/badge/%2Fsafira-00cc00?style=for-the-badge"></a>
-<a href="#projetos"><img alt="/projetos" src="https://img.shields.io/badge/%2Fprojetos-00cc00?style=for-the-badge"></a>
-<a href="#devkit"><img alt="/devkit" src="https://img.shields.io/badge/%2Fdevkit-00cc00?style=for-the-badge"></a>
-<a href="#segurança"><img alt="/segurança" src="https://img.shields.io/badge/%2Fsegurança-00cc00?style=for-the-badge"></a>
-
 </div>
 
 ## /SOBRE
