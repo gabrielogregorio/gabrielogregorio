@@ -90,7 +90,9 @@
 <td><samp>./ia</samp></td>
 <td>
 <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-0a0f0a?style=flat-square">
-<img alt="Claude" src="https://img.shields.io/badge/Claude-0a0f0a?style=flat-square&logo=claude&logoColor=00cc00">
+<img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-0a0f0a?style=flat-square&logo=anthropic&logoColor=00cc00">
+<img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-0a0f0a?style=flat-square&logo=claude&logoColor=00cc00">
+<img alt="OpenCode" src="https://img.shields.io/badge/OpenCode-0a0f0a?style=flat-square&logo=opencode&logoColor=00cc00">
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-0a0f0a?style=flat-square&logo=langchain&logoColor=00cc00">
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0a0f0a?style=flat-square&logo=pytorch&logoColor=00cc00">
 <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-0a0f0a?style=flat-square&logo=huggingface&logoColor=00cc00">
@@ -125,17 +127,9 @@
 
 ## /SAFIRA
 
-**Linguagem de programação em linguagem natural pra quem está começando, com IDE na web.** Nasceu em 2019, em Python, e hoje é TypeScript.
+**Linguagem de programação em linguagem natural pra quem está começando.** Escreva em português, inglês, espanhol, chinês ou japonês, até misturando, e rode no navegador com debugger, modo aula e arquivos por projeto.
 
 <a href="https://gabrielogregorio.github.io/safira/"><img src="https://raw.githubusercontent.com/gabrielogregorio/safira/main/docs/demo.gif" alt="A Safira trocando de idioma e rodando um programa com uma variável e uma cor" width="100%"></a>
-
-O mesmo script mistura cinco idiomas:
-
-```text
-idade recebe 18
-if idade is greater than 17 { mostre "Maior de idade" }
-repeat 2 vezes { show "Oi" }
-```
 
 <a href="https://github.com/gabrielogregorio/safira"><img alt="Repositório: safira" src="https://img.shields.io/github/stars/gabrielogregorio/safira?style=flat-square&logo=github&label=estrelas&color=00cc00"></a>
 <img alt="Último commit de safira" src="https://img.shields.io/github/last-commit/gabrielogregorio/safira?style=flat-square&label=%C3%BAltimo%20commit&color=00cc00">
@@ -185,6 +179,49 @@ Sistema próprio pro Game Stick 4K: menu, música 8-bit e save states. Roda do c
 
 <a href="https://github.com/gabrielogregorio/retrostick-os"><img alt="Repositório: retrostick-os" src="https://img.shields.io/github/stars/gabrielogregorio/retrostick-os?style=flat-square&logo=github&label=estrelas&color=00cc00"></a>
 <img alt="Último commit de retrostick-os" src="https://img.shields.io/github/last-commit/gabrielogregorio/retrostick-os?style=flat-square&label=%C3%BAltimo%20commit&color=00cc00">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/gabrielogregorio/tereza">🤖 Tereza</a></h3>
+
+<a href="https://github.com/gabrielogregorio/tereza"><img src="https://gabrielogregorio.vercel.app/projects/tereza.gif" alt="Conversa no Telegram em que a Tereza mostra horários de cursos e faz um cadastro perguntando nome e idade" width="360"></a>
+
+Chatbot em Python no Telegram, com interações baseadas em extensões.
+
+<a href="https://github.com/gabrielogregorio/tereza"><img alt="Repositório: tereza" src="https://img.shields.io/github/stars/gabrielogregorio/tereza?style=flat-square&logo=github&label=estrelas&color=00cc00"></a>
+<img alt="Último commit de tereza" src="https://img.shields.io/github/last-commit/gabrielogregorio/tereza?style=flat-square&label=%C3%BAltimo%20commit&color=00cc00">
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/gabrielogregorio/tic-tac-toe-eletronic">🎮 Jogo da Velha Gamer</a></h3>
+
+<a href="https://github.com/gabrielogregorio/tic-tac-toe-eletronic"><img src="https://gabrielogregorio.vercel.app/projects/tic-tac-toe-eletronica.gif" alt="Tabuleiro físico com LEDs coloridos sendo tocado, ao lado do notebook com o código em Python" width="360"></a>
+
+Jogo da velha físico com LEDs, botões e som, feito com Arduino e Python.
+
+<a href="https://github.com/gabrielogregorio/tic-tac-toe-eletronic"><img alt="Repositório: tic-tac-toe-eletronic" src="https://img.shields.io/github/stars/gabrielogregorio/tic-tac-toe-eletronic?style=flat-square&logo=github&label=estrelas&color=00cc00"></a>
+<img alt="Último commit de tic-tac-toe-eletronic" src="https://img.shields.io/github/last-commit/gabrielogregorio/tic-tac-toe-eletronic?style=flat-square&label=%C3%BAltimo%20commit&color=00cc00">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gabrielogregorio/quick-note"><img src="https://gabrielogregorio.vercel.app/projects/quick-note.gif" alt="A extensão aberta no navegador, com uma nota amarela recebendo anotações rápidas" width="360"></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/gabrielogregorio/quick-note">📝 Quick Note</a></h3>
+
+Extensão pra Chrome e Edge: anote uma ideia na hora com <kbd>Alt</kbd> + <kbd>A</kbd>.
+
+<a href="https://github.com/gabrielogregorio/quick-note"><img alt="Repositório: quick-note" src="https://img.shields.io/github/stars/gabrielogregorio/quick-note?style=flat-square&logo=github&label=estrelas&color=00cc00"></a>
+<img alt="Último commit de quick-note" src="https://img.shields.io/github/last-commit/gabrielogregorio/quick-note?style=flat-square&label=%C3%BAltimo%20commit&color=00cc00">
 
 </td>
 </tr>
@@ -273,10 +310,5 @@ CPU, RAM e GPU numa linha acima de todas as janelas.
 
 Vulnerabilidades reais identificadas, com POCs controladas, aviso aos responsáveis e ajuda na correção.
 
-<img alt="IDOR" src="https://img.shields.io/badge/IDOR-0a0f0a?style=flat-square">
-<img alt="SQL Injection" src="https://img.shields.io/badge/SQL_Injection-0a0f0a?style=flat-square">
-<img alt="XSS" src="https://img.shields.io/badge/XSS-0a0f0a?style=flat-square">
-<img alt="Security Misconfiguration" src="https://img.shields.io/badge/Security_Misconfiguration-0a0f0a?style=flat-square">
-<img alt="Information Exposure" src="https://img.shields.io/badge/Information_Exposure-0a0f0a?style=flat-square">
-<img alt="Exposição de credenciais" src="https://img.shields.io/badge/Exposição_de_credenciais-0a0f0a?style=flat-square">
+<img alt="IDOR" src="https://img.shields.io/badge/IDOR-0a0f0a?style=flat-square"> <img alt="SQL Injection" src="https://img.shields.io/badge/SQL_Injection-0a0f0a?style=flat-square"> <img alt="XSS" src="https://img.shields.io/badge/XSS-0a0f0a?style=flat-square"> <img alt="Security Misconfiguration" src="https://img.shields.io/badge/Security_Misconfiguration-0a0f0a?style=flat-square"> <img alt="Information Exposure" src="https://img.shields.io/badge/Information_Exposure-0a0f0a?style=flat-square"> <img alt="Exposição de credenciais" src="https://img.shields.io/badge/Exposição_de_credenciais-0a0f0a?style=flat-square">
 
